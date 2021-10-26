@@ -14,7 +14,7 @@ const owners = [
         "post": "Bot Owner",
         "GHURL": "https://github.com/VECTOREMPEROR",
         "InstaURL": "",
-        "YTURL": "https://www.youtube.com/channel/UCmO0xdpxQr7fX2Csth_2JOQ"
+        "YTURL": "https://github.com/VECTOREMPEROR"
     }
 ]
 
